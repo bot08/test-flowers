@@ -10,7 +10,7 @@ function loop(){
 
 const ColorSelect = () => {
   return (
-    <div>
+    <div className="color-select">
       <span className="color-select-text">Выберете цвет:</span>
       <div className="color-select-block-container">
         {

@@ -4,7 +4,7 @@ import ProductInfo from './components/ProductInfo';
 
 function App() {
   return (
-    <div className="container">
+    <div className="">
       <div className='frame'>
         <ProductGallery/>
         <ProductInfo/>
